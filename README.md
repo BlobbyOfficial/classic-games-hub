@@ -2,9 +2,11 @@
 --- 
 **THIS IS NOT CURRENTLY AVAILABLE.**
 
--- this section of the classic-games-hub has not currently been created.
--- check in soon as it will likely be created in the next few weeks
--- thank you for coming here ~ @BlobbyOfficial
+-- This section of the classic-games-hub has not currently been created.
+
+-- Check in soon as it will likely be created in the next few weeks.
+
+-- Thank you for your patience ~ @BlobbyOfficial
 
 ---
 
